@@ -16,6 +16,10 @@ Version control systems are a category of software tools that helps record chang
 ### [Learn Flutter](https://drive.google.com/drive/folders/1qsyG-6-gwOGW6ojwX41E5BdEbPXuqVug?usp=sharing)
 Flutter is an open-source UI software development kit created by Google. It is a cross-platform SDK which enables users to build applications for android, ios, web and desktop with single codebase written in Dart. :dart: Google’s Flutter is basically a game-changer in the cross-platform development world and without doubt, it's going to be adopted by more and more developers over the coming years.
 
+## Web Development :computer:
+
+### [Learn MERN Stack](https://drive.google.com/drive/folders/1F58qBE0fZg6a2XnrbOclZvZxrWsWssRN?usp=sharing)
+MERN stack is a web development framework. It consists of MongoDB, ExpressJS, ReactJS, and NodeJS as its working components.The key benefit for developers using the MERN stack is that every line of code is written in JavaScript and JS a programming language that’s used both for client-side code and server-side code.
 
 ## Blockchain :nut_and_bolt:
 
